@@ -13,7 +13,7 @@ Is the entry point for building the widget.
 
 ```
 
-import WidgetBuilder from 'https://cdn.cbd.int/@scbd/self-embedding-component@3.1.0'// jsdeliver not working ?
+import WidgetBuilder from 'https://cdn.jsdelivr.net/npm/@scbd/self-embedding-component@3.1.0/dist/index.min.js'
 import Package       from '../package.json'
 
 // load external css for dependant components
